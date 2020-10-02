@@ -1,2 +1,0 @@
-# calculator
-the-odin-project
